@@ -1,4 +1,4 @@
-# AKP LINK: https://drive.google.com/file/d/1L0koGgrHfE__mX1zbSi4p8YlNjVibs-l/view?usp=sharing
+# APK LINK: https://drive.google.com/file/d/1L0koGgrHfE__mX1zbSi4p8YlNjVibs-l/view?usp=sharing
 
 # SCREENRECORDING: https://drive.google.com/file/d/1utyKFG7CGtJlX2Gl0N7nCfTsKVjZzlm5/view?usp=sharing
 
