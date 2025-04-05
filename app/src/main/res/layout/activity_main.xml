@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/pizza"
+    android:gravity="center"
+    >
+    <ImageView        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/slice"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="SLICE IT UP"
+    android:textStyle="bold"
+    android:textSize="25dp"
+    android:letterSpacing="0.4"
+    android:textColor="@color/white"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't Think Just Eat :) "
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:textColor="#00ffff"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enjoy the food!"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        />
+
+
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:backgroundTint="#0e2f56"
+        app:strokeColor="#0e2f56"
+        app:strokeWidth="80dp"
+        android:text="Enter The World Of Pizza's..."
+        android:textStyle="italic"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textColor="@color/white"
+        app:cornerRadius="5dp"/>
+
+
+
+
+
+</LinearLayout>
